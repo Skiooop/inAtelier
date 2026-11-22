@@ -1,0 +1,16 @@
+/*
+  InAtelier website configuration.
+  Product A is connected to your existing Tally preorder form.
+  When Product B is ready, edit the fields below and add its Tally link.
+  Example formUrl: 'https://tally.so/r/XXXXXX'
+*/
+window.INATELIER_CONFIG = {
+  productB: {
+    name: 'Product B',
+    subtitle: 'Something special, coming into focus.',
+    description: 'Another piece in the InAtelier collection. More details and photographs will be shared here.',
+    status: 'Details coming soon',
+    image: '', // Example: 'assets/product-b.jpg'
+    formUrl: '' // Paste the public Product B Tally form URL here when ready.
+  }
+};

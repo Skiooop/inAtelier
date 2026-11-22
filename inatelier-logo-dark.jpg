@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1050">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#dfd4c7"/><stop offset="1" stop-color="#c9b9a7"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="20"/></filter><pattern id="p" width="15" height="15" patternUnits="userSpaceOnUse"><path d="M0 14H15" stroke="#756e65" stroke-opacity=".2"/></pattern></defs>
+<rect width="900" height="1050" fill="url(#bg)"/><rect width="900" height="1050" fill="url(#p)"/><path d="M0 555L900 352v698H0" fill="#13253b"/><path d="M0 555L900 352v698H0" fill="url(#p)"/>
+<ellipse cx="500" cy="797" rx="305" ry="90" fill="#05090f" opacity=".45" filter="url(#shadow)"/>
+<g transform="translate(180 168) rotate(19 260 335)"><rect width="520" height="670" fill="#171b20"/><rect x="22" y="22" width="476" height="626" fill="#333940"/><rect x="58" y="55" width="404" height="560" fill="#d4ccbb"/><rect x="58" y="55" width="404" height="560" fill="url(#p)"/><rect x="88" y="94" width="115" height="475" fill="#192839"/><path d="M105 105l78 450M105 555l78-450" stroke="#c2b49e" stroke-width="4" stroke-dasharray="3 15"/><rect x="225" y="150" width="208" height="335" fill="#fcf8ed"/><rect x="242" y="166" width="174" height="249" fill="#66797c"/><path d="M242 346l58-78 50 38 66-99v208H242" fill="#3e5056"/><circle cx="351" cy="229" r="23" fill="#e4c79f"/><path d="M270 446h117" stroke="#bcb4a4" stroke-width="4"/></g>
+<text x="60" y="1005" font-family="Georgia,serif" font-size="27" letter-spacing="5" fill="#ece6db">MOMENTS, KEPT CLOSE.</text>
+</svg>
